@@ -1,0 +1,11 @@
+#EXTINF:0,Das Erste
+http://live-ut-lh.daserste.de/i/daserste_ut_de@300832/index_1_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,n-tv
+http://p.live.akamai.n-tv.de/hls-live/ntvlive/ntvlive_1500.m3u8
+
+#EXTINF:0,NASA TV HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
